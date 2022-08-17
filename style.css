@@ -1,0 +1,28 @@
+body{
+    background-color:aliceblue;
+    color:black;
+}
+
+.members{
+    color:rgb(12, 42, 74)
+}
+
+.head_percent{
+    width:100%;
+    height: 50px;
+    font-size:35px;;
+    background-color:rgb(12, 42, 74);
+    color:white;
+    font-family:cursive;
+    text-align:center;
+}
+
+#camera{
+    border: 5px solid black;
+    height:250;
+    width: 350px;
+}
+
+#object,#Accuracy{
+    color:orangered;
+}
